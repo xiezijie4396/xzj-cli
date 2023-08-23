@@ -1,0 +1,9 @@
+# first
+# 用到的模块
+1. typescript
+2. commander：参数解析
+3. inquire：命令行交互
+4. chalk：命令行打印出颜色
+5. ini：配置文件ini格式解析
+6. ora：命令行loading
+7. nodemon：监听代码变化
